@@ -1,2 +1,2 @@
 # text_mining
-Coba2
+Coba2 udah
